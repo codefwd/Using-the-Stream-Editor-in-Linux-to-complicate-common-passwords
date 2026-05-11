@@ -1,2 +1,3 @@
 # Using the Stream Editor in Linux to complicate common words or phrases as passwords.
 Momma always said, never use a word from a dictionary as a password, but if you do we can complicate it a little.
+## Overview: We will look at the most common password wordlist used in Unix and Linux using the metasploit-framework. Then we will take ordinary words and 'Mung' them by replacing a number with a letter.
